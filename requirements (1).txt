@@ -1,0 +1,7 @@
+transformers
+torch
+sumy
+textstat
+nltk
+pandas
+matplotlib
